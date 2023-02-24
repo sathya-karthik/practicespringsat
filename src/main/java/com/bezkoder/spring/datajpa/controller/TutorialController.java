@@ -20,6 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.bezkoder.spring.datajpa.model.Tutorial;
 import com.bezkoder.spring.datajpa.repository.TutorialRepository;
+//test
 
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController
